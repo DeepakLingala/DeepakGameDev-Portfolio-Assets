@@ -1,7 +1,7 @@
 ## 2. GAMES SECTION
 
-- SmashCubrix DOWNLOAD LINK: https://deepaklingala16.itch.io/smash-cubrix-3d
-- RabitRush DOWNLOAD LINK: https://deepaklingala16.itch.io/rabitrush2d
+- RabitRush: https://youtu.be/CFLe35RdlgE
+- SmashCubrix: https://youtube.com/shorts/ydlWr8d3nSM
 
 ## 3. TECHNICAL THINGS
 
